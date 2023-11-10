@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Geeksynergy/static/css/main.9bfc2d5a.css",
+    "main.js": "/Geeksynergy/static/js/main.25d62b3a.js",
+    "index.html": "/Geeksynergy/index.html",
+    "main.9bfc2d5a.css.map": "/Geeksynergy/static/css/main.9bfc2d5a.css.map",
+    "main.25d62b3a.js.map": "/Geeksynergy/static/js/main.25d62b3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bfc2d5a.css",
+    "static/js/main.25d62b3a.js"
+  ]
+}
