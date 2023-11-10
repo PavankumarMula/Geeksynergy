@@ -1,4 +1,4 @@
-Certainly! Below is a basic template for a README.md file for your GitHub repository. You can customize it according to your project details.
+
 
 ```markdown
 # Movie App
