@@ -1,6 +1,4 @@
 
-
-```markdown
 # Movie App
 
 This is a movie application built with React that allows users to view a list of movies. It includes features like user authentication, signup, login, and displays a list of movies fetched from a third-party API.
